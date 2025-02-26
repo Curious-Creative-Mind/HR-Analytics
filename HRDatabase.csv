@@ -1,0 +1,91 @@
+ID,Employee,Gender,Birth Date,Hire Date,Termination Date,Termination Reason,Education,Position,Department
+1,Harley Matthews,Female,17-08-1989,02-10-2011,null,null,Higher Certificate,Administrator,Finance / Accounting
+2,Aliyah Thomas,Female,27-03-1988,22-03-2012,01-05-2015,Unfair Dismissal,Higher Certificate,Lawyer,Legal
+3,Madeleine Bradley,Female,18-04-1981,24-08-2012,19-06-2016,Resignation,Bachelor's Incompleted,Administrative Analyst,Finance / Accounting
+4,Gabrielle Gardner,Female,31-10-2002,12-11-2012,null,null,Bachelor's Completed,Accounting Analyst,Finance / Accounting
+5,Molly Owen,Female,22-10-1979,18-09-2013,null,null,Bachelor's Completed,Database Analyst,Strategy
+6,Lilah Gill,Female,05-10-1980,16-01-2014,17-10-2017,Resignation,Bachelor's Completed,Business Intelligence Analyst,Strategy
+7,Winnie May,Female,16-11-1992,26-04-2014,07-10-2017,Unfair Dismissal,Bachelor's Completed,Communication Analyst,Marketing
+8,Blossom Howard,Female,20-09-1996,08-05-2014,null,null,Major's,Personnel Analyst,Finance / Accounting
+9,Anayah Armstrong,Female,01-03-1975,15-06-2014,null,null,Major's,Marketing Analyst,Marketing
+10,Isabel Wood,Female,13-10-1974,30-11-2014,null,null,Major's,Business Analyst,Development
+11,Nia Moore,Female,04-05-1979,17-12-2014,null,null,Postgraduate,Market Research Analyst,Sales
+12,Olivia-Rose Houghton,Female,30-08-1986,21-01-2015,02-10-2015,Dismissal,Postgraduate,Salesperson,Sales
+13,Aurelia Allen,Female,26-06-1969,05-02-2015,null,null,Master's,Technical Support Analyst,Technology and Equipment
+14,Alexandra Fraser,Female,07-04-1984,01-05-2015,null,null,Doctoral,Test Analyst,Development
+15,Ruby Wilson,Female,28-10-1992,01-05-2015,null,null,Higher Certificate,Usability Analyst,Development
+16,Betty Lewis,Female,19-06-1990,21-05-2015,null,null,Higher Certificate,Financial Analyst,Finance / Accounting
+17,Aya Perry,Female,18-03-1990,06-01-2016,04-07-2016,Unfair Dismissal,Bachelor's Incompleted,Pogrammer Analyst,Development
+18,Karina Mcdonald,Female,01-09-1992,21-01-2016,19-06-2016,Mutual Agreement,Bachelor's Completed,Administrative Assistant,Finance / Accounting
+19,Ela Moss,Female,29-06-1986,02-02-2016,null,null,Bachelor's Completed,Salesperson,Sales
+20,Emmie Hall,Female,04-06-1994,26-03-2016,null,null,Bachelor's Completed,Developer,Development
+21,Harriet Knight,Female,05-06-1990,04-07-2016,null,null,Bachelor's Completed,Developer,Development
+22,Flora Parry,Female,16-11-1983,24-07-2016,03-08-2018,Unfair Dismissal,Major's,Database Analyst,Strategy
+23,Anayah Lee,Female,29-01-1979,27-08-2017,null,null,Major's,Business Intelligence Analyst,Strategy
+24,Polly George,Female,24-06-1977,17-10-2017,null,null,Major's,Developer,Development
+25,Madeline Powell,Female,18-11-1975,25-01-2018,null,null,Postgraduate,Developer,Development
+26,Hallie Lawson,Female,24-03-1991,30-09-2018,null,null,Postgraduate,Developer,Development
+27,Melody Francis,Female,15-04-1966,01-12-2018,30-01-2019,Resignation,Master's,Developer,Development
+28,Victoria Reid,Female,20-10-1996,01-02-2019,null,null,Doctoral,Developer,Development
+29,Hanna Booth,Female,28-06-1961,06-04-2019,null,null,Higher Certificate,Systems Analyst,Development
+30,Esme Lloyd,Female,01-03-1969,23-06-2019,20-12-2019,End of Internishp Contract,Higher Certificate,Internship,Development
+31,Clara White,Female,12-07-1990,15-11-2019,null,null,Bachelor's Incompleted,Systems Analyst,Development
+32,Nancy Hudson,Female,29-03-1996,20-11-2019,null,null,Bachelor's Completed,Technical Support Analyst,Technology and Equipment
+33,Kara Chapman,Female,27-08-1991,05-12-2019,null,null,Bachelor's Completed,Systems Analyst,Development
+34,Betsy Booth,Female,04-04-1992,15-12-2019,null,null,Bachelor's Completed,Technical Support Analyst,Technology and Equipment
+35,James Barker,Male,09-04-1990,10-02-2011,null,null,Bachelor's Completed,Pogrammer Analyst,Development
+36,Jude Dixon,Male,05-09-1980,09-05-2011,01-09-2015,Dismissal,Major's,Administrative Assistant,Finance / Accounting
+37,Matteo Hawkins,Male,13-06-1993,15-06-2012,19-02-2016,Resignation,Major's,Developer,Development
+38,Asher Morris,Male,12-11-1990,05-07-2012,null,null,Major's,Pogrammer Analyst,Development
+39,Jonah Thompson,Male,23-03-1995,08-10-2012,20-05-2017,Unfair Dismissal,Postgraduate,Administrative Assistant,Finance / Accounting
+40,Ethan Fisher,Male,29-01-1980,17-10-2013,16-03-2018,Unfair Dismissal,Postgraduate,Developer,Development
+41,Fraser Kelly,Male,28-01-1983,19-12-2013,null,null,Master's,Administrative Analyst,Finance / Accounting
+42,Marcel Parry,Male,10-06-1991,20-02-2014,null,null,Doctoral,Accounting Analyst,Finance / Accounting
+43,Rowan Jordan,Male,25-08-1975,31-05-2014,06-09-2015,Resignation,Higher Certificate,Database Analyst,Strategy
+44,Jackson Cunningham,Male,27-11-1984,08-09-2014,null,null,Higher Certificate,Business Intelligence Analyst,Strategy
+45,Seth Watts,Male,18-06-2001,01-01-2015,null,null,Bachelor's Incompleted,Communication Analyst,Marketing
+46,Levi Spencer,Male,12-11-1982,26-02-2015,null,null,Bachelor's Completed,Personnel Analyst,Finance / Accounting
+47,Ralphy Griffiths,Male,23-10-1975,27-03-2015,null,null,Bachelor's Completed,Marketing Analyst,Marketing
+48,Callum Lane,Male,24-01-1999,16-04-2015,19-10-2015,Resignation,Bachelor's Completed,Business Analyst,Development
+49,Spencer Ellis,Male,31-08-1996,05-06-2015,05-06-2017,Unfair Dismissal,Bachelor's Completed,Market Research Analyst,Sales
+50,Kian Byrne,Male,13-11-1995,01-09-2015,null,null,Major's,Systems Analyst,Development
+51,Nicolas Matthews,Male,25-01-1995,06-09-2015,null,null,Major's,Technical Support Analyst,Technology and Equipment
+52,Liam Hunt,Male,12-04-1970,13-10-2015,null,null,Major's,Test Analyst,Development
+53,Kane Cunningham,Male,08-04-1994,19-10-2015,07-05-2016,Resignation,Postgraduate,Usability Analyst,Development
+54,George Porter,Male,20-06-1993,06-01-2016,null,null,Postgraduate,Financial Analyst,Finance / Accounting
+55,Brody Thomas,Male,14-11-1991,05-02-2016,21-03-2016,Resignation,Master's,Pogrammer Analyst,Development
+56,Albi Simpson,Male,26-01-1991,05-02-2016,null,null,Doctoral,Administrative Assistant,Finance / Accounting
+57,Spencer Chambers,Male,21-06-1989,19-02-2016,null,null,Higher Certificate,Developer,Development
+58,Samuel Wilson,Male,02-09-1988,28-04-2016,null,null,Higher Certificate,Developer,Development
+59,Ayan Walker,Male,15-11-1987,05-05-2016,null,null,Bachelor's Incompleted,Developer,Development
+60,Kit Bradley,Male,27-01-1987,07-05-2016,null,null,Bachelor's Completed,Database Analyst,Strategy
+61,Otis Chambers,Male,10-04-1986,13-05-2016,10-06-2017,Resignation,Bachelor's Completed,Business Intelligence Analyst,Strategy
+62,Simon Anderson,Male,22-06-1985,20-05-2016,null,null,Bachelor's Completed,Developer,Development
+63,Oskar Saunders,Male,03-09-1984,09-06-2016,null,null,Bachelor's Completed,Developer,Development
+64,Roman Morris,Male,09-01-1996,19-06-2016,null,null,Major's,Developer,Development
+65,Benjamin Bradley,Male,27-10-1968,04-09-2016,null,null,Major's,Developer,Development
+66,Ashley Ross,Male,07-09-1968,22-10-2016,null,null,Major's,Developer,Development
+67,Tobias John,Male,28-01-1983,18-01-2017,09-03-2019,Unfair Dismissal,Postgraduate,Systems Analyst,Development
+68,Maximus Howard,Male,11-04-1982,07-02-2017,null,null,Postgraduate,Technical Support Analyst,Technology and Equipment
+69,Vinnie Davidson,Male,23-06-1981,20-05-2017,null,null,Master's,Systems Analyst,Development
+70,Asher Watson,Male,04-09-1980,10-06-2017,null,null,Doctoral,Technical Support Analyst,Technology and Equipment
+71,Fletcher Carter,Male,17-11-1979,27-08-2017,null,null,Higher Certificate,Systems Analyst,Development
+72,Jasper Richards,Male,12-04-1978,07-10-2017,30-06-2019,Unfair Dismissal,Higher Certificate,Technical Support Analyst,Technology and Equipment
+73,Kairo Mccarthy,Male,05-09-1976,13-11-2017,null,null,Bachelor's Incompleted,Pogrammer Analyst,Development
+74,Zain Fraser,Male,30-01-1975,30-01-2018,03-08-2018,Unfair Dismissal,Bachelor's Completed,Commercial Assistant,Sales
+75,Damian Moss,Male,13-04-1974,16-03-2018,null,null,Bachelor's Completed,Developer,Development
+76,Richard Wilkinson,Male,28-01-1983,16-03-2018,16-04-2018,Resignation,Bachelor's Completed,Pogrammer Analyst,Development
+77,Bradley Wright,Male,25-06-1973,05-04-2018,null,null,Bachelor's Completed,Commercial Assistant,Sales
+78,Denis Webb,Male,06-09-1972,20-05-2018,null,null,Major's,Developer,Development
+79,Martin Cox,Male,02-02-2000,15-06-2018,14-06-2019,End of Internishp Contract,Major's,Internship,Development
+80,Thomas Davis,Male,31-01-1971,03-08-2018,null,null,Major's,Business Intelligence Analyst,Strategy
+81,Rudy Rees,Male,14-04-1970,18-08-2018,null,null,Postgraduate,Developer,Development
+82,Fabian Spencer,Male,20-11-1967,06-11-2018,null,null,Postgraduate,Developer,Development
+83,Zakariya Mills,Male,01-02-1967,26-11-2018,null,null,Master's,Systems Analyst,Development
+84,Ralphy Palmer,Male,27-06-1965,11-12-2018,null,null,Doctoral,Technical Support Analyst,Technology and Equipment
+85,Alby Foster,Male,08-09-1964,15-12-2018,null,null,Higher Certificate,Systems Analyst,Development
+86,Aryan Reynolds,Male,21-11-1963,17-12-2018,17-03-2019,Resignation,Higher Certificate,Commercial Assistant,Sales
+87,Grayson Lowe,Male,15-04-1986,05-05-2019,null,null,Bachelor's Incompleted,Developer,Development
+88,Antonio Ball,Male,17-08-1984,25-07-2019,null,null,Bachelor's Completed,Pogrammer Analyst,Development
+89,Ethan Simpson,Male,14-07-1969,04-08-2019,null,null,Bachelor's Completed,Salesperson,Sales
+90,Blake Barker,Male,13-06-1982,10-10-2019,null,null,Doctoral,Developer,Development

@@ -1,0 +1,91 @@
+ID,Performance Review,City,Last Promotion Date,Salary,Overdue Vacation?
+1,10,Alabama,null,4539,No
+2,10, Arizona,null,3698,Yes
+3,8,Colorado,null,4157,Yes
+4,10,Missouri,null,4360,Yes
+5,7,New York,null,4144,Yes
+6,5,Ohio,null,4257,No
+7,8,Oregon,null,4534,No
+8,9, Arizona,12-08-2017,4094,Yes
+9,9, Montana,null,4289,Yes
+10,9,Missouri,null,3834,Yes
+11,5,New York,null,3917,Yes
+12,9,Ohio,null,3625,No
+13,6,Oregon,null,4157,No
+14,5,Missouri,null,4307,No
+15,8,New York,12-08-2017,4008,No
+16,6,Ohio,null,4529,No
+17,5,New York,null,3625,No
+18,6,Washington,null,4047,No
+19,7,New York,null,4493,
+20,9,Ohio,null,4257,No
+21,7, Montana,null,4534,No
+22,7,Washington,null,4047,No
+23,10,Missouri,null,4493,No
+24,9, Montana,null,4257,No
+25,7,Ohio,09-11-2015,4529,No
+26,5,Missouri,null,4047,Yes
+27,6,Alabama,null,3754,No
+28,10,Colorado,null,4529,No
+29,10,Washington,null,3625,No
+30,5, Montana,null,3754,Yes
+31,7,Texas,null,4211,No
+32,8,Texas,null,4211,No
+33,10,Washington,null,3625,Yes
+34,9, Montana,null,3754,No
+35,9,Oregon,null,4064,No
+36,7,Alabama,null,4576,No
+37,5, Arizona,null,3909,No
+38,8,Colorado,null,4233,No
+39,9, Montana,null,3958,No
+40,9,Washington,null,4383,No
+41,10,Washington,12-08-2017,4493,No
+42,9,Texas,null,4006,No
+43,8,Texas,null,3754,No
+44,10,Texas,null,4325,No
+45,9,Colorado,null,4133,No
+46,7, Montana,22-01-2020,4034,No
+47,5,Missouri,null,4299,No
+48,7,New York,null,3944,No
+49,5,Ohio,null,3617,No
+50,10,Oregon,null,3917,No
+51,6,Missouri,05-03-2018,3985,No
+52,10,New York,null,3750,No
+53,7,Ohio,09-11-2015,3609,No
+54,7,Oregon,null,4079,No
+55,7,Alabama,null,3793,No
+56,5, Arizona,null,4355,No
+57,8,Colorado,null,4324,No
+58,5, Montana,22-01-2020,4152,No
+59,8,Washington,null,3689,No
+60,8,Washington,null,4028,No
+61,8,Washington,null,3859,No
+62,7,Texas,null,4492,Yes
+63,6,Texas,05-03-2018,4047,No
+64,10,Texas,null,4263,No
+65,5,Texas,09-11-2015,4150,No
+66,5,Rhode Island,null,4208,No
+67,9,Rhode Island,null,4275,No
+68,9,Rhode Island,null,3922,No
+69,9,Oregon,null,4003,No
+70,7,Oregon,null,3901,No
+71,5,Oregon,null,3952,No
+72,10,Mississippi,null,4161,No
+73,7,Mississippi,null,3643,No
+74,6,Mississippi,null,4252,No
+75,7,Mississippi,null,4063,No
+76,6,Mississippi,null,4434,No
+77,8, Maryland,null,4403,No
+78,8, Maryland,null,4425,No
+79,10, Maryland,null,4005,No
+80,7, Maryland,null,3769,No
+81,9,Hawaii,null,4500,No
+82,5,Hawaii,null,3906,No
+83,7,Hawaii,null,4211,Yes
+84,8,Hawaii,null,3904,No
+85,9,Hawaii,null,4543,No
+86,10,Alabama,null,4430,No
+87,9, Arizona,null,4183,No
+88,10,Colorado,null,4308,No
+89,7, Maryland,null,3920,No
+90,7,Hawaii,null,4001,Yes
