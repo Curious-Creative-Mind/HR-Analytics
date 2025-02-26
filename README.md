@@ -6,6 +6,8 @@ This project aims at analyzing Human Resources (HR) related dataset of a fiction
 
 By answering certain business questions, we’ll try to deep dive into employee composition, their salary, their qualifications, performance review, reasons for terminations etc. and come up with suggestions to improve employee satisfaction and improve their productivity thus contributing to company growth.
 
+To view the SQL queries and their outputs, click [here](ppt pdf.pdf) 
+
 ### Data Structure and Initial Checks:
 
 The database structure consists of 3 tables as shown below : HR (90 records), Employees (90 records) and Department (7 records) .
