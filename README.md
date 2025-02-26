@@ -6,7 +6,7 @@ This project aims at analyzing Human Resources (HR) related dataset of a fiction
 
 By answering certain business questions, we’ll try to deep dive into employee composition, their salary, their qualifications, performance review, reasons for terminations etc. and come up with suggestions to improve employee satisfaction and improve their productivity thus contributing to company growth.
 
-To view the SQL queries and their outputs, click [here](ppt pdf.pdf) 
+To view the SQL queries and their outputs, click [here](https://github.com/Curious-Creative-Mind/HR-Analytics/blob/main/ppt%20pdf.pdf) 
 
 ### Data Structure and Initial Checks:
 
