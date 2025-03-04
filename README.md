@@ -66,7 +66,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 To view the SQL queries and their outputs, click [here](https://github.com/Curious-Creative-Mind/HR-Analytics/blob/main/ppt%20pdf.pdf) 
 
-### ----------------------------------------BUSINESS QUESTIONS----------------------------------------
+### --------------------------------------------------BUSINESS QUESTIONS-------------------------------------------------
 
 ### -- >>>> Basic Level
 
@@ -306,7 +306,7 @@ FROM
 
 ```
 
-### --------------------------------------------------xxxxxxxxxxxxxxxxx------------------------------------------
+### -----------------------------------------------------xxxxxxxxxxxxxxxxx---------------------------------------------------
 
 
 ### Data Source:
