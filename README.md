@@ -20,7 +20,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 -	Check blanks
 -	Valid data
--	Replaced blanks in cerain columns  
+-	Replaced blanks in certain columns  
 
 ## Executive Summary:
 
