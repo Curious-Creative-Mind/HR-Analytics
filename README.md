@@ -28,7 +28,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 - There is uneven distribution of employees in various departments with **Development (47) and Finance (13 )** being the **top 2 departments with maximum employees** while **Legal (1)** having the **lowest employee count**.
 
--	The **average age of emplyees is 41 yrs.** while the **average hiring age is 32 yrs.**.
+-	The **average age of employees is 41 yrs.** while the **average hiring age is 32 yrs.**.
 
 -	**Top 3 cities** with **highest average salary** are **Colorado ($4280.67), Alabama ($4218.40), Missouri ($4189.29)** while New York ($3983.00) and Washington ($3977.33) are at bottom having the lowest average salary.
 
